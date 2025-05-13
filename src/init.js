@@ -1,1 +1,3 @@
-import data from './data.js';
+import { keydownEvent } from './events/keydownEvent.js';
+
+keydownEvent();
